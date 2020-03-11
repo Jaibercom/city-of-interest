@@ -11,7 +11,9 @@
     { 
       "id": 2, 
       "title": "Cerro Nutibarra", 
-      "description": "El Cerro Nutibara es una pequeña formación montañosa ubicada en la ciudad colombiana de Medellín, en el centro geográfico del Valle de Aburrá, en la margen occidental del río Medellín, en medio de la zona urbana, y es uno de los pocos ecosistemas que se conservan en localidad." 
+      "description": "El Cerro Nutibara tambień conocido como Pueblito Paisa es una pequeña formación montañosa ubicada en la ciudad colombiana de Medellín, en el centro geográfico del Valle de Aburrá, en la margen occidental del río Medellín, en medio de la zona urbana, y es uno de los pocos ecosistemas que se conservan en localidad.", 
+      "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/15/b0/af/0a/pueblito-paisa.jpg",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/15/b0/af/0a/pueblito-paisa.jpg"
     }
   ],
   "comments": [
