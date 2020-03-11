@@ -47,5 +47,8 @@
       "user": "juanito",
       "password": "1234"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
