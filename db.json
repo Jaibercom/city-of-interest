@@ -28,6 +28,12 @@
       "body": "Ubicado en el centro donde encontramos estas hermosas esculturas y además otras atracciones como artistas callejeros... Cualquier día es bueno para hacer esta visita... Muy recomendable para combinar con otros tour y recorridas !", 
       "qualification": 4,
       "poiId": 1 
+    },
+    { 
+      "id": 3, 
+      "body": "El pueblito paisa es una representacion de pueblo tipico antioqueño y esta alli para recordarnos una hermosa epoca y lo bonita que era la arquitectura colonial", 
+      "qualification": 5,
+      "poiId": 2 
     }
   ],
   "users": [
