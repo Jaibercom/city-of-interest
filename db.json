@@ -7,6 +7,11 @@
       "description": "La Plaza de Botero o Plaza de las Esculturas, tiene un área de 7.500 metros cuadrados para el disfrute en donde se pueden apreciar 23 esculturas monumentales donadas por el Maestro Fernando Botero. Está situada en uno de los lugares más tradicionales y característicos de la ciudad: cerca del Parque de Berrío, el Museo de Antioquia, el Palacio de la Cultura y el Hotel Nutibara; convirtiéndolo no sólo en el epicentro del arte y la cultura de Medellín, sino también, en un lugar de paso obligado para los visitantes.",
       "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/0d/87/3a/7a/photo4jpg.jpg"
       "image": "https://media-cdn.tripadvisor.com/media/photo-s/0d/87/3a/7a/photo4jpg.jpg"
+    },
+    { 
+      "id": 2, 
+      "title": "Cerro Nutibarra", 
+      "description": "El Cerro Nutibara es una pequeña formación montañosa ubicada en la ciudad colombiana de Medellín, en el centro geográfico del Valle de Aburrá, en la margen occidental del río Medellín, en medio de la zona urbana, y es uno de los pocos ecosistemas que se conservan en localidad." 
     }
   ],
   "comments": [
