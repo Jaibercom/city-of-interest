@@ -1,4 +1,7 @@
 {
+  "city": {
+    "name": "Medellin"
+  },
   "poi": [
     { 
       "id": 1, 
