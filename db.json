@@ -1,5 +1,4 @@
 {
-  "city": "Medellín",
   "poi": [
     { 
       "id": 1, 
@@ -49,6 +48,6 @@
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "jaibercom"
   }
 }
